@@ -8,7 +8,7 @@ Currently, I am based in Eindhoven, The Netherlands :bike::cheese:. I am part of
 * :green_book: Developing explainable ML/AI models :speech_balloon:, to bridge the gap between clinics and algorithms.
 * :orange_book: Decision support, where we generate data-powered tools to help oncological clinicians and cancer patients when making important choices.
 
-Lastly, I love learning new things :seedling:. I find joy in constantly updating my skills and toolset :hammer_and_wrench:.
+Whenever I have the opportunity (and time), I like contributing to open-source projects :open_book:. Lastly, I love learning new things :seedling:. I find joy in constantly updating my skills and toolset :hammer_and_wrench:.
 
 ### Free time
 I enjoy running :running_man:, playing (Nintendo) videogames :video_game:, volleyball :volleyball:, and travelling :world_map:. Moreover, when for whatever reason I am not coding as part of my work, I like developing pop data science projects :clapper::space_invader:. Feel free to take a look at a few of my repos.
