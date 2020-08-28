@@ -1,22 +1,32 @@
-### Hello world!
-I am Arturo. I am a Biomedical Data Scientist :man_technologist:. I am passionate about improving people's medical diagnosis :stethoscope:, treatment :pill:, monitoring :test_tube:, rehabilitation :man_in_motorized_wheelchair:, and health :hospital: through the practical implementation of data-informed solutions using machine learning and artificial intelligence tools :mechanical_arm:.
+## :man_technologist: Hello world!
+:stethoscope: Biomedical Data Scientist <br>
+:mechanical_arm: Passionate about improving people’s health through data-informed solutions <br>
+:video_game: Nintendo and Marvel enthusiast
 
-### What am I up to now?
-Currently, I am based in Eindhoven, The Netherlands :bike::cheese:. I am part of the Comprehensive Cancer Organization Netherlands (better known as [IKNL](https://iknl.nl/), for its Dutch name), where I am working as a Clinical Data Scientist. IKNL curates the Netherlands Cancer Register :open_file_folder:, a database containing (almost) all cancer incidences registered since 1989 :memo:. We use these valuable data to reduce the impact of cancer on Dutch patients :smile:. A few of the projects where I've been actively involved include:
+## :nerd_face: What am I up to now?
+:computer: Working as a Clinical Data Scientist at [IKNL](https://iknl.nl/), where I've developed various projects, such as: <br>
+> :blue_book: Federated Learning, where we generate global models using decentralized data using our own infrastructure, [VANTAGE6](https://github.com/IKNL/vantage6). <br>
+> :green_book: Explainable ML/AI models, to bridge the gap between clinics and algorithms.<br>
+> :orange_book: Decision support, where we develop data-powered tools to support important oncological choices
 
-* :blue_book: Federated Learning, where we generate global models using decentralized data, protecting the privacy :mag: of our patients' data. For this, we have developed our own infrastructure, [VANTAGE6](https://github.com/IKNL/vantage6).
-* :green_book: Developing explainable ML/AI models :speech_balloon:, to bridge the gap between clinics and algorithms.
-* :orange_book: Decision support, where we generate data-powered tools to help oncological clinicians and cancer patients when making important choices.
+:open_book: Contributing to open-source projects <br>
+> :diamond_shape_with_a_dot_inside: Developing [DeepSurvK](https://github.com/arturomoncadatorres/deepsurvk) - a Python package that uses Deep Learning for survival analysis. <br>
 
-Whenever I have the opportunity (and time), I like contributing to open-source projects :open_book:. Lastly, I love learning new things :seedling:. I find joy in constantly updating my skills and toolset :hammer_and_wrench:.
+:space_invader: Developing pop data science projects <br>
+:seedling: Constantly updating my skills and learning new tools
 
-### Free time
-I enjoy running :running_man:, playing (Nintendo) videogames :video_game:, volleyball :volleyball:, and travelling :world_map:. Moreover, when for whatever reason I am not coding as part of my work, I like developing pop data science projects :clapper::space_invader:. Feel free to take a look at a few of my repos.
 
-----------------
-### Contact
-You can also find me in these other places:
-* :bird: [Twitter @amoncadatorres](https://twitter.com/amoncadatorres)
-* :business_suit_levitating: [LinkedIn profile](https://www.linkedin.com/in/arturomoncadatorres/)
-* :mortar_board: [Google Scholar](https://scholar.google.com/citations?user=o0pPxc8AAAAJ&hl=en)
-* :computer: [Personal website](https://arturomoncadatorres.com/)
+## :mailbox_with_mail: Contact
+<p align='left'>
+<a href="https://arturomoncadatorres.com/"><img height="40" src="https://github.com/arturomoncadatorres/arturomoncadatorres/blob/master/icons/website.png"></a>&nbsp;&nbsp;
+<a href="mailto:arturomoncadatorres@gmail.com/"><img height="40" src="https://github.com/arturomoncadatorres/arturomoncadatorres/blob/master/icons/email.png"></a>&nbsp;&nbsp;
+<a href="https://twitter.com/amoncadatorres/"><img height="40" src="https://github.com/arturomoncadatorres/arturomoncadatorres/blob/master/icons/twitter.png"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/arturomoncadatorres/"><img height="40" src="https://github.com/arturomoncadatorres/arturomoncadatorres/blob/master/icons/linkedin.png"></a>&nbsp;&nbsp;
+<a href="https://scholar.google.com/citations?user=o0pPxc8AAAAJ&hl=en"><img height="40" src="https://github.com/arturomoncadatorres/arturomoncadatorres/blob/master/icons/scholar.png"></a>
+</p>
+
+[*Icons by Icons8*](https://icons8.com/)
+
+## :chart_with_upwards_trend: &nbsp;GitHub Stats&nbsp; <img src="https://komarev.com/ghpvc/?username=arturomoncadatorres&label=Profile+Views&color=1E73BE&style=flat-square&label=Visitors" /></a>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=arturomoncadatorres&show_icons=true&theme=default&icon_color=1E73BE&count_private=true&hide_title=true"/>
+<a href="https://github.com/arturomoncadatorres"> 
