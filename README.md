@@ -3,6 +3,8 @@
 :mechanical_arm: Passionate about improving people’s health through data-informed solutions <br>
 :video_game: Nintendo and Marvel enthusiast
 
+[![Twitter: amoncadatorres](https://img.shields.io/twitter/follow/amoncadatorres?style=social)](https://twitter.com/amoncadatorres)
+
 ## :nerd_face: What am I up to now?
 :computer: Working as a Clinical Data Scientist at [IKNL](https://iknl.nl/), where I've developed various projects, such as: <br>
 > :blue_book: Federated Learning, where we generate global models using decentralized data using our own infrastructure, [VANTAGE6](https://github.com/IKNL/vantage6). <br>
