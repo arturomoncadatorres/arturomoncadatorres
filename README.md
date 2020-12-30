@@ -15,6 +15,7 @@
 > :diamond_shape_with_a_dot_inside: Developing [DeepSurvK](https://github.com/arturomoncadatorres/deepsurvk) - a Python package that uses Deep Learning for survival analysis. <br>
 
 :space_invader: Developing pop data science projects <br>
+:bricks: Building [LEGO creations](https://arturomoncadatorres.com/tag/lego), especially cool Mindstorms robots!
 :seedling: Constantly updating my skills and learning new tools
 
 
