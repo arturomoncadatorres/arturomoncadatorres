@@ -1,6 +1,6 @@
 ## :man_technologist: Hello world!
-:stethoscope: Biomedical Data Scientist <br>
-:mechanical_arm: Passionate about improving people’s health through data-informed solutions <br>
+:stethoscope: Biomedical Engineer & Data Scientist <br>
+:mechanical_arm: Improving people’s health through data-informed solutions <br>
 :video_game: LEGO, Marvel, Star Wars, and videogames enthusiast.
 
 [![Twitter: amoncadatorres](https://img.shields.io/twitter/follow/amoncadatorres?style=social)](https://twitter.com/amoncadatorres)
