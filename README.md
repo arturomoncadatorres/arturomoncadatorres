@@ -6,10 +6,12 @@
 [![Twitter: amoncadatorres](https://img.shields.io/twitter/follow/amoncadatorres?style=social)](https://twitter.com/amoncadatorres)
 
 ## :nerd_face: What am I up to now?
-:computer: Working as a Clinical Data Scientist at [IKNL](https://iknl.nl/), where I've developed various projects, such as: <br>
-> :blue_book: Federated Learning, where we generate global models using decentralized data using our own infrastructure, [VANTAGE6](https://github.com/IKNL/vantage6). <br>
-> :green_book: Explainable ML/AI models, to bridge the gap between clinics and algorithms.<br>
-> :orange_book: Decision support, where we develop data-powered tools to support important oncological choices
+:computer: Working as a Sr. Data Scientist at [Kite Pharma](https://www.kitepharma.com/), where I'm working in various projects, such as: <br>
+> :blue_book: Designing and implementing (semi-)automatic pipelines for quality control and monitoring of the manufacturing process of immunotherapy for cancer patients. <br>
+> :green_book: Performing ad hoc investigations using statistical and ML tools to better understand the effects of different parameters in the quality of the final product and improve it.<br>
+> :orange_book: Establishing a framework for data science and analytics compliant with good manufacturing practice (GMP) that serves the needs of different areas within the company.
+
+You can find a detailed view of my CV (including previous experience) [here](https://arturomoncadatorres.com/cv/)!
 
 :open_book: Contributing to open-source projects <br>
 > :diamond_shape_with_a_dot_inside: Developing [DeepSurvK](https://github.com/arturomoncadatorres/deepsurvk) - a Python package that uses Deep Learning for survival analysis. <br>
