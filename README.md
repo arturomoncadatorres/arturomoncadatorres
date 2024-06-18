@@ -6,15 +6,16 @@
 [![Twitter: amoncadatorres](https://img.shields.io/twitter/follow/amoncadatorres?style=social)](https://twitter.com/amoncadatorres)
 
 ## :nerd_face: What am I up to now?
-:computer: Working as a Sr. Data Scientist at [Kite Pharma](https://www.kitepharma.com/), where I'm working in various projects, such as: <br>
-> :blue_book: Designing and implementing (semi-)automatic pipelines for quality control and monitoring of the manufacturing process of immunotherapy for cancer patients. <br>
-> :green_book: Performing ad hoc investigations using statistical and ML tools to better understand the effects of different parameters in the quality of the final product and improve it.<br>
-> :orange_book: Establishing a framework for data science and analytics compliant with good manufacturing practice (GMP) that serves the needs of different areas within the company.
+:computer: Working as a Sr. Researcher and Data Scientist at [UMC Utrecht](https://www.umcutrecht.nl/en/), where I'm working in various projects, such as: <br>
+> :blue_book: Comparing and evaluating the accuracy and performance of hematological analyzers for use in the development of clinical predictive models. <br>
+> :green_book: Improving existing extract, transform, and load (ETL) pipelines through the implementation of standards, good coding practices, version control system, and software packages. <br>
+> :orange_book: Generating synthetic versions of cardiovascular clinical data to be used in algorithm prototyping while protecting patient confidentiality.
 
 You can find a detailed view of my CV (including previous experience) [here](https://arturomoncadatorres.com/cv/)!
 
 :open_book: Contributing to open-source projects <br>
 > :diamond_shape_with_a_dot_inside: Developing [DeepSurvK](https://github.com/arturomoncadatorres/deepsurvk) - a Python package that uses Deep Learning for survival analysis. <br>
+> :diamond_shape_with_a_dot_inside: Developing PyCellDyn - a Python package for data analysis of CellDyn data. <br>
 
 :space_invader: Developing pop data science projects <br>
 :bricks: Building [LEGO creations](https://arturomoncadatorres.com/tag/lego), especially [cool MINDSTORMS robots](https://github.com/arturomoncadatorres/lego-mindstorms)! <br>
