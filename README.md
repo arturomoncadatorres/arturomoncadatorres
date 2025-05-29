@@ -3,8 +3,6 @@
 :mechanical_arm: Improving people’s health through data-informed solutions <br>
 :video_game: LEGO, Marvel, Star Wars, and videogames enthusiast.
 
-[![Bluesky: arturomoncadatorres.com](https://img.shields.io/badge/bluesky-Follow_arturomoncadatorres.com-blue?logo=bluesky)](https://bsky.app/profile/arturomoncadatorres.com)
-
 ## :nerd_face: What am I up to now?
 :computer: Working as a Data Scientist at [Philips](https://www.philips.nl/), where I'm working in one of the coolest aspects of human physiology: sleep (together with respiratory care).
 
