@@ -3,13 +3,10 @@
 :mechanical_arm: Improving people’s health through data-informed solutions <br>
 :video_game: LEGO, Marvel, Star Wars, and videogames enthusiast.
 
-[![Twitter: amoncadatorres](https://img.shields.io/twitter/follow/amoncadatorres?style=social)](https://twitter.com/amoncadatorres)
+[![Bluesky: arturomoncadatorres.com](https://img.shields.io/badge/bluesky-Follow_arturomoncadatorres.com-blue?logo=bluesky)](https://bsky.app/profile/arturomoncadatorres.com)
 
 ## :nerd_face: What am I up to now?
-:computer: Working as a Sr. Researcher and Data Scientist at [UMC Utrecht](https://www.umcutrecht.nl/en/), where I'm working in various projects, such as: <br>
-> :blue_book: Comparing and evaluating the accuracy and performance of hematological analyzers for use in the development of clinical predictive models. <br>
-> :green_book: Improving existing extract, transform, and load (ETL) pipelines through the implementation of standards, good coding practices, version control system, and software packages. <br>
-> :orange_book: Generating synthetic versions of cardiovascular clinical data to be used in algorithm prototyping while protecting patient confidentiality.
+:computer: Working as a Data Scientist at [Philips](https://www.philips.nl/), where I'm working in one of the coolest aspects of human physiology: sleep (together with respiratory care).
 
 You can find a detailed view of my CV (including previous experience) [here](https://arturomoncadatorres.com/cv/)!
 
