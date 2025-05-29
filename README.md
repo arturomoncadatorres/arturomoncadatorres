@@ -18,18 +18,13 @@ You can find a detailed view of my CV (including previous experience) [here](htt
 :bricks: Building [LEGO creations](https://arturomoncadatorres.com/tag/lego), especially [cool MINDSTORMS robots](https://github.com/arturomoncadatorres/lego-mindstorms)! <br>
 :seedling: Constantly updating my skills and learning new tools
 
-
-## :mailbox_with_mail: Contact
-<p align='left'>
-<a href="https://arturomoncadatorres.com/"><img height="40" src="https://github.com/arturomoncadatorres/arturomoncadatorres/blob/master/icons/website.png"></a>&nbsp;&nbsp;
-<a href="mailto:arturomoncadatorres@gmail.com/"><img height="40" src="https://github.com/arturomoncadatorres/arturomoncadatorres/blob/master/icons/email.png"></a>&nbsp;&nbsp;
-<a href="https://twitter.com/amoncadatorres/"><img height="40" src="https://github.com/arturomoncadatorres/arturomoncadatorres/blob/master/icons/twitter.png"></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/arturomoncadatorres/"><img height="40" src="https://github.com/arturomoncadatorres/arturomoncadatorres/blob/master/icons/linkedin.png"></a>&nbsp;&nbsp;
-<a href="https://scholar.google.com/citations?user=o0pPxc8AAAAJ&hl=en"><img height="40" src="https://github.com/arturomoncadatorres/arturomoncadatorres/blob/master/icons/scholar.png"></a>
-</p>
-
-[*Icons by Icons8*](https://icons8.com/)
-
 ## :chart_with_upwards_trend: &nbsp;GitHub Stats&nbsp; <img src="https://komarev.com/ghpvc/?username=arturomoncadatorres&label=Profile+Views&color=1E73BE&style=flat-square&label=Visitors" /></a>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=arturomoncadatorres&show_icons=true&theme=default&icon_color=1E73BE&count_private=true&hide_title=true"/>
 <a href="https://github.com/arturomoncadatorres"> 
+
+## :mailbox_with_mail: Contact
+| <a href="https://arturomoncadatorres.com/"><img height="40" src="https://github.com/arturomoncadatorres/arturomoncadatorres/blob/master/icons/website.png"></a> | <a href="mailto:arturomoncadatorres@gmail.com/"><img height="40" src="https://github.com/arturomoncadatorres/arturomoncadatorres/blob/master/icons/email.png"></a> | <a href="https://bsky.app/profile/arturomoncadatorres.com"><img height="40" src="https://github.com/arturomoncadatorres/arturomoncadatorres/blob/master/icons/bluesky.png"></a> | <a href="https://www.linkedin.com/in/arturomoncadatorres/"><img height="40" src="https://github.com/arturomoncadatorres/arturomoncadatorres/blob/master/icons/linkedin.png"></a> | <a href="https://scholar.google.com/citations?user=o0pPxc8AAAAJ&hl=en"><img height="40" src="https://github.com/arturomoncadatorres/arturomoncadatorres/blob/master/icons/scholar.png"></a> |
+| ------------- | ------------- | ------------- | ------------- | ------------- |
+| [Personal website](https://arturomoncadatorres.com) | [Shoot me an email](mailto:arturomoncadatorres@gmail.com) | [Follow me on Bluesky](https://bsky.app/profile/arturomoncadatorres.com) | [LinkedIn profile](https://www.linkedin.com/in/arturomoncadatorres) | [Google scholar](https://scholar.google.com/citations?user=o0pPxc8AAAAJ&hl=en) |
+
+*Icons by [Icons8](https://icons8.com/)*
